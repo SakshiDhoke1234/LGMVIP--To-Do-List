@@ -1,0 +1,64 @@
+body {
+    background: url(todo1.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.container {
+
+    color: black;
+    border: 2px solid;
+    display: inline-block;
+    background-color: rgb(224, 178, 203);
+    font-size: larger;
+    margin-left: 500px;
+    width: 500px;
+}
+
+.con1 {
+    color: black;
+    background-color: whitesmoke;
+    border: 2px solid black;
+    padding: 10px 5px 10px 5px;
+    margin-top: 45px;
+    margin-right: 150px;
+    margin-left: 130px;
+    position: sticky;
+    text-align: center;
+}
+
+#list {
+    margin-left: 30px;
+    margin-top: 10px;
+    margin-right: 100px;
+    font-family: 'Satisfy', cursive;
+    position: relative;
+}
+
+#add {
+    margin-top: 10px;
+    margin-right: 137px;
+    margin-left: 134px;
+}
+
+#btn {
+    border: 2px solid black;
+}
+
+#btn:hover {
+    background-color: rgb(223, 189, 189);
+}
+
+span {
+    color: black;
+    float: right;
+}
+
+#inp1 {
+    border: 2px solid black;
+}
+
+#image {
+    width: 20px;
+    height: 20px;
+}
